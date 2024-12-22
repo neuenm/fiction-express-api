@@ -1,0 +1,35 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Las aventuras de Juan",
+      "author": "Autor Ficticio",
+      "pages": [
+        "Capítulo 1: Había una vez en un lugar muy lejano... Había una vez en un lugar muy lejano, donde los campos verdes se extendían más allá del horizonte y el cielo parecía pintado de azul intenso. Juan era un joven curioso que siempre soñaba con descubrir los secretos que el mundo ocultaba. Una mañana, mientras paseaba por el bosque, encontró un mapa antiguo dentro de una botella que flotaba en el río. El mapa llevaba a una isla misteriosa llena de tesoros y desafíos. A medida que Juan avanzaba, su curiosidad crecía y lo llevaba a encuentros inesperados, como un loro parlante y un anciano sabio que le enseñó importantes lecciones de vida.",
+        "Capítulo 2: Continuaron las aventuras de Juan… Juan continuó su viaje con el loro parlante, quien resultó ser un compañero fiel y astuto. Juntos atravesaron montañas cubiertas de nieve, cruzaron ríos embravecidos y descubrieron cuevas llenas de cristales resplandecientes. En uno de sus descansos, encontraron a un grupo de aldeanos que les contaron historias de un tesoro escondido. Decidieron seguir las pistas que los aldeanos les dieron, lo que los llevó a enfrentarse a acertijos y trampas que protegían el tesoro. Mientras resolvían estos enigmas, Juan aprendió el valor de la perseverancia y la amistad.",
+        "Capítulo 3: El final de la historia se acercaba… El viaje de Juan estaba llegando a su fin, pero el desafío más grande aún lo esperaba. En la cima de una colina, encontraron un cofre dorado protegido por un dragón que no toleraba intrusos. Juan tuvo que demostrar su valentía y astucia para convencer al dragón de que le permitiera abrir el cofre. Con la ayuda del loro y de las lecciones aprendidas durante su viaje, Juan logró su objetivo. Dentro del cofre, encontró no solo riquezas materiales, sino también un pergamino que contenía palabras de sabiduría que cambiarían su vida para siempre."
+      ],
+      "image": "https://www.lapatilla.com/wp-content/uploads/2013/02/harry8.jpg",
+      "description": "Las aventuras de Juan es un libro de aventuras que narra la historia de un joven curioso ."
+    },
+    {
+      "id": 2,
+      "title": "El viaje de la imaginación",
+      "author": "Escritor Desconocido",
+      "pages": [
+        "Capítulo 1: La imaginación puede llevarte a lugares increíbles...",
+        "Capítulo 2: A medida que el viaje continuaba, las posibilidades parecían innitas...",
+        "Capítulo 3: El n de la aventura."
+      ],
+      "image": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/615801.jpg",
+      "description": "El viaje de la imaginación es un libro que invita a explorar los límites de la mente."
+    }
+  ],
+  "users": [
+    {
+      "email": "neuen@gmail.com",
+      "password": "$2a$10$L1oCYf5u72XrCsDrm9Jdf.O8XLw7l2U/fMQp41FOmbgV.pBjWJIEq",
+      "id": 3
+    }
+  ]
+}
