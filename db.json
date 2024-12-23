@@ -23,6 +23,16 @@
       ],
       "image": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/615801.jpg",
       "description": "El viaje de la imaginación es un libro que invita a explorar los límites de la mente."
+    },
+    {
+      "email": "test@test.com",
+      "password": "fiction",
+      "id": 1
+    },
+    {
+      "email": "neuen@gmail.com",
+      "password": "fiction",
+      "id": 3
     }
   ],
   "users": [
